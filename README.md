@@ -27,7 +27,7 @@ I I'am Rafael Torreson
 ## PassVault - Released
 A full fledged password manager where your passwords are all stored in an encrypted file locally.
 
-[Repository link](https://www.github.com/rtorreson/passstoragevault (EM BREVE))
+[//]: <> (Repository link](https://www.github.com/rtorreson/passstoragevault))
 
 
 ## Signature Maker
