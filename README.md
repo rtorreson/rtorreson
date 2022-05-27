@@ -8,6 +8,7 @@ I I'am Rafael Torreson
 # Programming Languages BackEnd 💻
 - JavaScript(Node, Typescript)
 - Python
+- Java
 
 # Databases
 - Sql Server
