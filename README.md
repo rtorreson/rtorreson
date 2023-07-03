@@ -4,6 +4,7 @@ I I'am Rafael Torreson
 # Languages 🗣
 - Português(Brasil) 🇧🇷
 - English 🇱🇷    
+- Spanish 🇪🇸
 
 # Programming Languages BackEnd 💻
 - JavaScript(Node, Typescript)
@@ -16,23 +17,17 @@ I I'am Rafael Torreson
 - MongoDB
 - Postgre
 - Cassandra
+- DynamoDB
+- CosmosDB
+- Redis
 
 # Frameworks FrontEnd 💻
 - ReactJS
 - VueJS
-- EJS
-- Handlebars
-- Pug
+- Template Engine
 
-# Projects 
-
-## Signature Maker
-Generate dinamic signature for e-mail.
-
-[Repository link](https://www.github.com/rtorreson/signature-maker)
-
-
-# Contact me 📧
-- rafael@torreson.com.br
-
+# Cloud
+- Azure Specialist 
+- AWS
+- GCP
 
