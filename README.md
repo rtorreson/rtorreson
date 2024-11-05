@@ -6,28 +6,56 @@ I I'am Rafael Torreson
 - English 🇱🇷    
 - Spanish 🇪🇸
 
-# Programming Languages BackEnd 💻
-- JavaScript(Node, Typescript)
-- Python
-- Java
 
-# Databases
-- Sql Server
-- Mysql
-- MongoDB
-- Postgre
-- Cassandra
-- DynamoDB
-- CosmosDB
-- Redis
 
-# Frameworks FrontEnd 💻
-- ReactJS
-- VueJS
-- Template Engine
 
-# Cloud
-- Azure Specialist 
-- AWS
-- GCP
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rtorreson&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rtorreson&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,python,c,cpp,gtk,java,go,prisma,javascript,typescript,rails,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,githubactions,jest,materialui,linux,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,dynamodb,terraform,ansible,kubernetes,jenkins,aws,azure,prometheus,grafana," />
+</a>
+  <br />
+
+  </div>
+
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
+ 
+
+
+
+
+
+
+ 
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+ 
+  
+  
+
+  
 
