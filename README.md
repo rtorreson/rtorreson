@@ -20,7 +20,7 @@ I I'am Rafael Torreson
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,python,c,cpp,gtk,java,go,prisma,javascript,typescript,rails,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,githubactions,jest,materialui,linux,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,dynamodb,terraform,ansible,kubernetes,jenkins,aws,azure,prometheus,grafana," />
+  <img src="https://skillicons.dev/icons?i=git,python,c,cpp,gtk,java,go,prisma,javascript,typescript,rails,css,html,react,angular,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,githubactions,jest,materialui,linux,styledcomponents,vercel,vite,flutter,bootstrap,mongodb,postgres,mysql,dynamodb,redis,terraform,ansible,kubernetes,jenkins,aws,azure,prometheus,grafana," />
 </a>
   <br />
 
